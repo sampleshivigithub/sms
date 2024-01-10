@@ -8,10 +8,10 @@
 		<version>2.7.17</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sms1</groupId>
-	<artifactId>sms1</artifactId>
+	<groupId>com.sms</groupId>
+	<artifactId>sms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sms1</name>
+	<name>sms</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
@@ -34,6 +34,7 @@
 			<artifactId>twilio</artifactId>
 			<version>8.1.0</version>
 		</dependency>
+
 	</dependencies>
 
 	<build>
